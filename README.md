@@ -1,6 +1,6 @@
 # Updated Clean Minimap.
 
-- Game Version: V 1.70 (Latest)
+- Game Version: V1.70 (Latest)
 - Removed HP Bar
 - Removed Armour Bar
 
