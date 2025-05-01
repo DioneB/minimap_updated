@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+author 'Dione B.'
+description 'Minimap GFX Without HP and Armour Bars (Updated)'
+version '1.0.0'
